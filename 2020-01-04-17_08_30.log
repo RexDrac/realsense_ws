@@ -1,0 +1,12 @@
+ 04/01 17:08:30,933 DEBUG [139726129981248] (context.cpp:112) Librealsense VERSION: 2.31.0
+ 04/01 17:08:30,943 INFO [139726129981248] (tm-context.cpp:44) LibTm version 0x130003000006af
+ 04/01 17:08:30,943 DEBUG [139726129981248] (ds5-factory.cpp:938) try_fetch_usb_device(...) failed.
+ 04/01 17:08:31,265 DEBUG [139726129981248] (tm-context.cpp:67) T265 query acomplished after 322 ms]
+ 04/01 17:08:31,272 DEBUG [139726129981248] (backend-v4l2.cpp:1154) Recognized pixel-format 16-bit Depth data
+ 04/01 17:08:31,272 DEBUG [139726129981248] (backend-v4l2.cpp:1154) Recognized pixel-format 16-bit Depth data
+ 04/01 17:08:31,272 DEBUG [139726129981248] (backend-v4l2.cpp:1154) Recognized pixel-format 8-bit Greyscale
+ 04/01 17:08:31,273 DEBUG [139726129981248] (backend-v4l2.cpp:1154) Recognized pixel-format UYVY 4:2:2
+ 04/01 17:08:31,273 DEBUG [139726129981248] (backend-v4l2.cpp:1154) Recognized pixel-format 8-bit Greyscale L/R interleaved
+ 04/01 17:08:31,273 DEBUG [139726129981248] (backend-v4l2.cpp:1154) Recognized pixel-format 12-bit Grey L/R interleaved
+ 04/01 17:08:31,280 DEBUG [139726129981248] (backend-v4l2.cpp:1154) Recognized pixel-format YUYV 4:2:2
+ 04/01 17:08:31,280 DEBUG [139726129981248] (backend-v4l2.cpp:1154) Recognized pixel-format 16-bit Bayer BGBG/GRGR (Exp.)
